@@ -1,2 +1,2 @@
-# simple-dialect
-Simple MLIR Dialect
+# Simple Dialect
+

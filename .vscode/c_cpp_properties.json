@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/LLVM-21.1.8-Linux-X64/include/**"
+
+            ],
+            "defines": [],
+            "compilerPath": "/opt/LLVM-21.1.8-Linux-X64/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
